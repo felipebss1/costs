@@ -1,70 +1,28 @@
 {
   "projects": [
     {
-      "name": "test",
-      "budget": "50000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "Projeto Atualizado",
-      "budget": "60000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "Novo Projeto",
-      "budget": "50000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "test",
-      "budget": "5000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "test56",
-      "budget": "1258885",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "name": "Test120",
-      "budget": "2000000",
+      "name": "Teste1",
+      "budget": "10000",
       "category": {
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
-      "id": 8
+      "cost": 2400,
+      "services": [
+        {
+          "name": "test",
+          "cost": "1200",
+          "description": "Contratação de 1 designer com exp em figma",
+          "id": "151ff18f-335f-4e76-b2b1-e1ca6731054f"
+        },
+        {
+          "name": "test1",
+          "cost": "1200",
+          "description": "Isso aí mesmo",
+          "id": "42f50799-0aad-469d-b9f0-9b82955e6003"
+        }
+      ],
+      "id": 1
     }
   ],
   "categories": [
