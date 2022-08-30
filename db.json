@@ -1,30 +1,5 @@
 {
-  "projects": [
-    {
-      "name": "Teste1",
-      "budget": "10000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 2400,
-      "services": [
-        {
-          "name": "test",
-          "cost": "1200",
-          "description": "Contratação de 1 designer com exp em figma",
-          "id": "151ff18f-335f-4e76-b2b1-e1ca6731054f"
-        },
-        {
-          "name": "test1",
-          "cost": "1200",
-          "description": "Isso aí mesmo",
-          "id": "42f50799-0aad-469d-b9f0-9b82955e6003"
-        }
-      ],
-      "id": 1
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,
