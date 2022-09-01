@@ -18,7 +18,7 @@ Este é um projeto idealizado por Matheus Battisti (Hora de Codar) com o intuito
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://genadvice.netlify.app/)
+- Live Site URL: [Add live site URL here](https://costsproject.netlify.app)
 
 ## My process
 
